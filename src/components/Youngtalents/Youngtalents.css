@@ -1,0 +1,56 @@
+.body,html{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.youngtalents{
+    display: flex;
+    position: relative;
+    height: 80vh;
+    background-color:#06041A ;
+}
+
+.talents-head{
+    width: 859.2px;
+    height: 96px;
+}
+
+.talents-head h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+.green-txt{
+    color: #C9F001;
+}
+
+.left-arrow{
+    font-size: 50px !important;
+    color: white;
+    margin-left: 500px;
+    cursor: pointer;
+}
+
+.right-arrow{
+    font-size: 50px !important;
+    color: #C9F001;
+    cursor: pointer;
+}
+
+.images-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: -1360px;
+    gap: 50px;
+}

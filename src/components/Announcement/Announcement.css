@@ -1,0 +1,65 @@
+body,html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.announcement{
+    background-color: #06041A;
+    height: 80vh;
+    width: 100%;
+    /* margin-left: -82px; */
+    margin-top: -21px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+
+.green-text h2{
+    color: #00C71C;
+    font-family: Inter;
+    font-weight: 400;
+    margin-left: 180px;
+    width: 450px;
+    position: absolute;
+    margin-top: 130px;
+}
+
+.kytify h1{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-size: 91.77px;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 180px;
+}
+
+.para p{
+    color: #FFFFFF;
+    opacity: 50%;
+    font-family: Inter;
+    margin-left: 184px;
+    margin-top: 330px;
+    position: absolute;
+    width: 700px;
+    font-size: 20px;
+    text-align: start;
+}
+
+.sustainable-btn button{
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 430px;
+    background-color: #C9F001;
+    color: #282828;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.socket img{
+    width: 620px;
+    margin-left: 1000px;
+}

@@ -1,0 +1,528 @@
+/* .body,html{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.featuredwebsites{
+    width: 100%;
+    display: flex;
+    height: 140vh;
+    background-color: #06041A;
+    overflow: hidden;
+    position: relative;
+}
+
+.websites-heading{
+    width: 500px;
+    height: 44px;
+}
+
+.websites-heading h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43.57px;
+    color: #FFFFFF;
+    margin-left: 120px;
+}
+
+.gsst-btn button{
+    width: 318px;
+    height: 45px;
+    padding: 13px 26px 13px 6px;
+    background-color: #C9F001;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #282828;
+    border-radius: 6px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 600px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.arrow-icons{
+    margin-left: 4px;
+    position: absolute;
+    margin-top: -1px;
+    color: #282828;
+}
+
+.main-card{
+    display: flex;
+    overflow: hidden;
+}
+
+.card-1{
+    width: 791.96px;
+    height: 531.04px;
+    position: absolute;
+    background-color: #1A182C;
+    border-radius: 8px;
+    margin-top: 140px;
+    margin-left: -378px;
+    display: flex;
+    overflow: hidden;
+}
+
+.wordpress img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.client{
+    width: 200px;
+    height: 17px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 50px ;
+}
+
+.client h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #FFFFFF;
+    opacity: 50% ;
+}
+
+.card1-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+    color: #FFFFFF;
+    margin-left: -227px;
+    position: absolute;
+    margin-top: 170px;
+    width: 330px;
+}
+
+.key-points h2{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    opacity: 50%;
+    width: 245.33px;
+    height: 40px;
+    position: relative;
+}
+
+.key-points{
+    margin-top: 270px;
+    margin-left: -200px;
+}
+
+.key-points h2::before {
+    content: '\2022';
+    position: absolute;
+    left: 0;
+    color: white;
+    font-size: 1.5em;
+    line-height: 1;
+    margin-left: -24px;
+    margin-top: -3px;
+  }
+
+  .visit-btn button{
+    width: 128.2px;
+    height: 38px;
+    border-radius: 6px;
+    padding: 10px 20px 10px 1px;
+    background-color: rgba(255, 255, 255, 0.12);
+    border: none;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.15px;
+    color: #FFFFFF;
+    margin-top: 450px;
+    margin-left: -270px;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  .icon{
+    color: #FFFFFF;
+    margin-left: -40px;
+    position: absolute;
+    margin-top: 454px;
+  }
+
+  .Arthammockup{
+    background-color: #FFFFFF;
+    margin-left: 54px;
+    height: 480px;
+    margin-top: 30px;
+    border-radius: 6px;
+  }
+
+  .card-2{
+    width: 791.96px;
+    height: 531.04px;
+    position: absolute;
+    background-color: #1A182C;
+    border-radius: 8px;
+    margin-top: 140px;
+    margin-left: 478px;
+    display: flex;
+    overflow: hidden;
+}
+
+.sustainable img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.client2{
+    width: 200px;
+    height: 17px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 50px ;
+}
+
+.client2 h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #FFFFFF;
+    opacity: 50% ;
+}
+
+
+.card2-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+    color: #FFFFFF;
+    margin-left: -113px;
+    position: absolute;
+    margin-top: 170px;
+    width: 330px;
+}
+
+.key-points2 h2{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    opacity: 50%;
+    width: 245.33px;
+    height: 40px;
+    position: relative;
+}
+
+.key-points2{
+    margin-top: 270px;
+    margin-left: -85px;
+}
+
+.key-points2 h2::before {
+    content: '\2022';
+    position: absolute;
+    left: 0;
+    color: white;
+    font-size: 1.5em;
+    line-height: 1;
+    margin-left: -24px;
+    margin-top: -3px;
+  }
+
+  .visit-btn2 button{
+    width: 128.2px;
+    height: 38px;
+    border-radius: 6px;
+    padding: 10px 20px 10px 1px;
+    background-color: rgba(255, 255, 255, 0.12);
+    border: none;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.15px;
+    color: #FFFFFF;
+    margin-top: 450px;
+    margin-left: -270px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .icon2{
+    color: #FFFFFF;
+    margin-left: -40px;
+    position: absolute;
+    margin-top: 454px;
+  }
+
+  .Rflmockup{
+    background-color: #FFFFFF;
+    margin-left: 85px;
+    height: 480px;
+    margin-top: 30px;
+    border-radius: 6px;
+  }
+
+  .arrow-left{
+    font-size: 50px !important;
+    color: white;
+    margin-left: 500px;
+    cursor: pointer;
+    margin-top: 700px;
+    position: absolute;
+    margin-left: -450px;
+}
+
+.arrow-right{
+    font-size: 50px !important;
+    color: #C9F001;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 700px;
+    margin-left: -400px;
+} */
+
+
+.body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.featuredwebsites {
+    width: 100%;
+    display: flex;
+    height: 140vh;
+    background-color: #06041A;
+    overflow: hidden;
+    position: relative;
+}
+
+.websites-heading {
+    width: 500px;
+    height: 44px;
+}
+
+.websites-heading h1 {
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43.57px;
+    color: #FFFFFF;
+    margin-left: 120px;
+}
+
+.gsst-btn button {
+    width: 318px;
+    height: 45px;
+    padding: 13px 26px 13px 6px;
+    background-color: #C9F001;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #282828;
+    border-radius: 6px;
+    border: none;
+    margin-top: 25px;
+    margin-left: 600px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.arrow-icons {
+    margin-left: 4px;
+    position: absolute;
+    margin-top: -1px;
+    color: #282828;
+}
+
+.main-card {
+    display: flex;
+    overflow: hidden;
+    transition: transform 0.5s ease;
+    position: absolute;
+}
+
+.card-1, .card-2 {
+    width: 891.96px;
+    height: 531.04px;
+    background-color: #1A182C;
+    border-radius: 8px;
+    margin-top: 140px;
+    position: relative;
+}
+
+.card-1 {
+    margin-left: 100px;
+    position: absolute;
+}
+
+.card-2 {
+    margin-left: 1050px;
+}
+
+.show-card-2 {
+    transform: translateX(-520px);
+}
+
+.wordpress img, .sustainable img {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.client, .client2 {
+    width: 200px;
+    height: 17px;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.client h1, .client2 h1 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #FFFFFF;
+    opacity: 50%;
+}
+
+.card1-title h1, .card2-title h1 {
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33.89px;
+    color: #FFFFFF;
+    width: 330px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.key-points, .key-points2 {
+    position: absolute;
+    width: 245.33px;
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.key-points {
+    top: 270px;
+    left: 50px;
+}
+
+.key-points2 {
+    top: 270px;
+    left: 50px;
+}
+
+.key-points h2, .key-points2 h2 {
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 17px;
+    color: #FFFFFF;
+    opacity: 50%;
+    position: relative;
+    padding-left: 25px;
+}
+
+.key-points h2::before, .key-points2 h2::before {
+    content: '\2022';
+    position: absolute;
+    left: 0;
+    color: white;
+    font-size: 1.5em;
+    line-height: 1;
+    margin-top: -3px;
+}
+
+.visit-btn, .visit-btn2 {
+    position: absolute;
+    bottom: 30px;
+    left: 50px;
+}
+
+.visit-btn button, .visit-btn2 button {
+    width: 128.2px;
+    height: 38px;
+    border-radius: 6px;
+    padding: 10px 20px 10px 1px;
+    background-color: rgba(255, 255, 255, 0.12);
+    border: none;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18.15px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.icon, .icon2 {
+    color: #FFFFFF;
+    margin-left: 90px;
+    margin-top: -32px;
+    position: absolute;
+}
+
+.Arthammockup, .Rflmockup {
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.Arthammockup {
+    width: 480px;
+    height: 480px;
+    margin-left: 185px;
+    margin-bottom: 25px;
+}
+
+.Rflmockup {
+    width: 480px;
+    height: 480px;
+    margin-left: 180px;
+    margin-bottom: 25px;
+    background-color: #17B3DF;
+}
+
+.Rflmockup img{
+    width: 450px;
+    margin-top: 30px;
+}
+
+.arrow-left {
+    font-size: 50px !important;
+    color: white;
+    cursor: pointer;
+    position: absolute;
+    top: 700px;
+    left: 100px;
+}
+
+.arrow-right {
+    font-size: 50px !important;
+    color: #C9F001;
+    cursor: pointer;
+    position: absolute;
+    top: 700px;
+    margin-left: 160px;
+}

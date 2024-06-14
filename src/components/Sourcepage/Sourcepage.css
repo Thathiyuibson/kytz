@@ -1,0 +1,124 @@
+.body,html{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+
+.sourcepage{
+    background-image: url('../../images/Rectangle 42.svg');
+    object-fit: cover;
+    position: relative;
+    text-align: center;
+}
+
+.according h2{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    position: absolute;
+    z-index: 1;
+    margin-top: -650px;
+    margin-left: 580px;
+    color: #FFFFFF;
+    opacity: 50%;
+}
+
+.centered-resource{
+    display: flex;
+    position: absolute;
+    width: 1080px;
+    height: 200px;
+    z-index: 1;
+    align-items: center;
+    margin-left: 220px;
+    margin-top: -450px;
+}
+
+.centered-resource1{
+    width: 390px;
+    height: 176px;
+    margin-left: 20px;
+}
+
+.centered-resource1 h1{
+    z-index: 1;
+    position: absolute;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 36px ;
+    line-height:43.57px ;
+    text-align: center;
+    color: #5b5959;
+    width: 500px;
+    margin-left: -60px;
+    margin-top: 10px;
+}
+
+.color-text{
+    color: white !important;
+    z-index: 1;
+}
+
+.vertical-line{
+    border: 1px dashed #5b5959;
+    height: 200px;
+    margin-top: 2px;
+    margin-left: 130px;
+    margin-right: 120px;
+}
+
+.centered-resource2 h1{
+    z-index: 1;
+    position: absolute;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 36px ;
+    line-height:43.57px ;
+    text-align: center;
+    color: #5b5959;
+    width: 420px;
+    margin-top: -70px;
+}
+
+.report h3{
+    font-family: Inter;
+    color: #5b5959;
+    font-size: 16px;
+    text-align: center;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: -140px;
+    margin-top: -10px;
+}
+
+.vertical-line1{
+    border: 1px solid #5b5959;
+    z-index: 1;
+}
+
+.report h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 50%;
+    margin-left: -140px;
+}
+
+.viewsource h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 50%;
+    margin-top: -35px;
+    margin-left: 170px;
+}

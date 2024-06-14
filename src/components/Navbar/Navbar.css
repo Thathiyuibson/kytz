@@ -1,0 +1,89 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+.navbar{
+    width: 100%;
+    background-color: #06041A;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -8px;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-logo img{
+    width: 140px;
+    height: 68.41px;
+    margin-left:120px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.menu{
+    position: absolute;
+    margin-left: 1300px;
+    width: 117px;
+    height: 44px;
+    border-radius: 6px;
+    background-color: #1F1D31;
+    border: 1px solid;
+    margin-top: -70px;
+    cursor: pointer;
+}
+
+.menu h2{
+    font-family: Inter;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    margin-left: 20px;
+}
+
+.menu img{
+    margin-top: -34px;
+    position: absolute;
+    margin-left: 70px;
+}
+
+.dropdown-content{
+    border: 1px solid;
+    width: 300px;
+    height: 400px;
+    border-radius: 12px;
+    position: absolute;
+    margin-left: 1122px;
+    margin-top: 20px;
+    background-color: #1F1D31;
+}
+
+
+.dropdown-content p{
+    font-family: Inter;
+    margin-bottom: 25px;
+    font-weight: 400;
+    text-align: start;
+    font-size: 16px;
+    line-height: 19.36px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    cursor: pointer;
+    margin-top: 25px;
+}
+
+.horizontal-line1 {
+    width: 193px;
+    border-top: 3px dashed  #9F9F9F;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+
+  .social-icons{
+    margin-left: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+  }

@@ -1,0 +1,109 @@
+.body,html{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.stepswefollow{
+    background-color: #06041A;
+    width: 100%;
+    position: relative;
+    height: 150vh;
+    margin-bottom: 30px;
+}
+
+.dashed-line1 {
+    border-top: 2px dashed black;
+    width: 90%; 
+    margin: 20px 0;
+    margin-left: -1350px;
+    margin-top: 350px;
+  }
+
+  .wefollow h1{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60.51px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    margin-left: 420px;
+    margin-top: 100px;
+  }
+
+  .card-holder{
+    width: 1180px;
+    height: 463.29px;
+    border: 1px solid red;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 150px;
+    display: flex;
+  }
+
+  .card-holder1{
+    width: 380px;
+    height: 463.29px;
+    background-color: #1F1D31;
+  }
+
+  .card-holder1 img {
+    margin-left: 140px;
+    margin-top: 80px;
+  }
+
+  .card-holder1 h1{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .computer-para p{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 50%;
+    width: 230px;
+    margin-left: 70px;
+  }
+
+
+  .card-holder2{
+    width: 380px;
+    height: 463.29px;
+    background-color: #1F1D31;
+    margin-left: 30px;
+  }
+
+  .card-holder2 img {
+    margin-left: 140px;
+    margin-top: 80px;
+  }
+
+  .card-holder2 h1{
+    color: #FFFFFF;
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .setting-para p{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 50%;
+    width: 230px;
+    margin-left: 70px;
+  }
