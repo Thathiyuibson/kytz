@@ -33,7 +33,7 @@ const FeaturedWebsites = () => {
           <div className='client'>
             <h1>Client: Artham beauty</h1>
           </div>
-          <div className='card1-title'>
+          <div className='card1-titlee'>
             <h1>Designed and delivered a modern website</h1>
           </div>
           <div className='key-points'>
@@ -55,7 +55,7 @@ const FeaturedWebsites = () => {
           <div className='client2'>
             <h1>Client: RFL Valves</h1>
           </div>
-          <div className='card2-title'>
+          <div className='card2-titlee'>
             <h1>Low carbon site for RFL Valves</h1>
           </div>
           <div className='key-points2'>

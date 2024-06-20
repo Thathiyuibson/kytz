@@ -9,15 +9,16 @@
     display: flex;
     background-color: white;
     height: 60vh;
+    justify-content: center;
     align-items: center;
 }
 
 .green-div{
-    width: 1180px;
+    width: 100%;
+    max-width: 1180px;
     height: 250px;
     border-radius: 12px;
     background-color: #C9F001;
-    margin-left: 160px;
 }
 
 .green-head{
@@ -47,6 +48,7 @@
     line-height: 24.2px;
     color: #FFFFFF;
     cursor: pointer;
+    border: none;
 }
 
 .ecograder-btn{

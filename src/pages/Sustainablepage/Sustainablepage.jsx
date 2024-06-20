@@ -7,6 +7,9 @@ import SustainableAnnouncement from '../../components/SustainableAnnouncement/Su
 import Sourcepage from '../../components/Sourcepage/Sourcepage'
 import Responsive from '../../components/Responsive/Responsive'
 import StepsWeFollow from '../../components/StepsWeFollow/StepsWeFollow'
+import SustainableWebsites from '../../components/SustainableWebsites/SustainableWebsites'
+import OurProcess from '../../components/OurProcess/OurProcess'
+import WebsiteDesigns from '../../components/WebsiteDesigns/WebsiteDesigns'
 
 const Sustainablepage = () => {
   return (
@@ -14,8 +17,11 @@ const Sustainablepage = () => {
         <Navbar/>
         <SustainableAnnouncement/>
         <Sourcepage/>
+        <WebsiteDesigns/>
         <Responsive />
+        <OurProcess/>
         <StepsWeFollow/>
+        <SustainableWebsites/>
         <FeaturedWebsites/>
         <Ecograder/>
         <Footer/>

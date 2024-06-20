@@ -1,0 +1,297 @@
+.body,html{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.website-designs{
+    width: 100%;
+    position: relative;
+    height: 85vh;
+}
+
+.design-head h1{
+    font-family: Inter;
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 60.51px;
+    color: #000000;
+    width: 770px;
+    margin-left: 360px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.txt-green{
+    color: #00C71C;
+}
+
+.design-cards{
+    position: relative;
+    width: 1308.84px;
+    height: 400.38px;
+    margin-left: 90px;
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
+
+.design-card1{
+    width: 314.86px;
+    height: 400.38px;
+    background-color: #020017;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.design1-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27.84px;
+    color: #FFFFFF;
+}
+
+.design1-title{
+    margin-top: 290px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.design1-bg img{
+    margin-left: 130px;
+}
+
+.design1-sub{
+    margin-top: -200px;
+    margin-left: -3px;
+}
+
+.design1-sub img{
+    width: 140px;
+}
+
+.design1-sub img.php{
+    margin-top: 20px;
+    position: absolute;
+}
+.design1-sub img.w{
+    margin-top: 100px;
+    margin-left: 60px;
+    position: absolute;
+}
+.design1-sub img.bleuw{
+    margin-top: 50px;
+    margin-left: 120px;
+}
+.design1-sub img.js{
+    margin-top: 130px;
+    margin-left: 170px;
+    position: absolute;
+}
+
+
+.design-card1:hover{
+    background-color: rgb(48, 91, 247);
+}
+.design-card2:hover{
+    background-color: rgb(250, 193, 38);
+}
+.design-card3:hover{
+    background-color:#00C71C;
+}
+.design-card4:hover{
+    background-color:rgb(5, 37, 151);
+}
+
+.design-card2{
+    width: 314.86px;
+    height: 400.38px;
+    background-color: #020017;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    transition: all 1s ease-in-out;
+}
+
+.design2-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27.84px;
+    color: #FFFFFF;
+}
+
+.design2-title{
+    margin-top: 290px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.design2-bg img{
+    margin-left: 130px;
+}
+
+.design2-sub{
+    margin-top: -165px;
+    margin-left: 30px;
+}
+
+.design2-sub img{
+    width: 140px;
+    margin-left: 10px;
+}
+
+.woo{
+    margin-left: -50px;
+    position: absolute;
+}
+
+.design-card3{
+    width: 314.86px;
+    height: 400.38px;
+    background-color: #020017;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.design3-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27.84px;
+    color: #FFFFFF;
+}
+
+.design3-title{
+    margin-top: 290px;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.design3-bg img{
+    margin-left: 130px;
+}
+
+.design3-sub{
+    margin-top: -200px;
+    margin-left: 20px;
+}
+
+.design3-sub img{
+    width: 140px;
+}
+
+.design-card4{
+    width: 314.86px;
+    height: 400.38px;
+    background-color: #020017;
+    border-radius: 12px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+.design4-title h1{
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 27.84px;
+    color: #FFFFFF;
+}
+
+.design4-title{
+    margin-top: 290px;
+    position: absolute;
+    margin-left: 30px;
+}
+
+.design4-bg img{
+    margin-left: 130px;
+}
+
+.design4-sub{
+    margin-top: -200px;
+    margin-left: 30px;
+}
+
+.design4-sub img{
+    width: 140px;
+}
+
+.ps{
+    margin-left: 90px;
+    position: absolute;
+    margin-top: 30px;
+}
+
+.figmabg{
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+.Aibg{
+    margin-left: 90px;
+    margin-top: -70px;
+}
+
+.blueww{
+    margin-top: 20px;
+    position: absolute;
+}
+
+.design4-sub img.bleuw {
+    width: 180px;
+    height: 150px; 
+    margin-left: 65px;
+    margin-top: -130px;
+}
+
+.design2-sub img.woo{
+    width: 160px;
+    margin-left: -45px;
+}
+
+
+.design-card2:hover .woo {
+    margin-left: -70px;
+}
+
+.design-card1:hover .design1-sub img.bleuw {
+    height: 250px;
+    transform: rotate(10deg);
+}
+.design-card4:hover .design4-sub img.bleuw {
+    height: 150px;
+    transform: rotate(10deg);
+    margin-left: 90px;
+}
+.design-card4:hover .design4-sub img.w {
+    height: 150px;
+    transform: rotate(10deg);
+    margin-left: -20px;
+}
+.design-card3:hover .design3-sub img.ps {
+    margin-top: 60px;
+    transform: rotate(10deg);
+}
+.design-card3:hover .design3-sub img.Aibg {
+    transform: rotate(-10deg);
+}
+.design-card1:hover .design1-sub img.php {
+    transform: rotate(-10deg);
+    margin-top: 80px;
+}
+.design-card1:hover .design1-sub img.w {
+    transform: rotate(-10deg);
+    margin-top: 80px;
+}
+.design-card1:hover .design1-sub img.js {
+    transform: rotate(-10deg);
+    margin-top: 80px;
+}

@@ -9,8 +9,8 @@
     width: 100%;
     height: 60vh;
     display: flex;
-    position: relative;
 }
+
 
 .responsive-img img{
     margin-left: 1000px;

@@ -53,12 +53,8 @@
 }
 
 .grid-box{
-    width: 1106px;
-    height: 114px;
-    gap: 5px;
-    margin-left: 185px;
-    margin-top: 60px;
     display: flex;
+    margin-top: 30px;
 }
 
 .grid-1{
@@ -67,6 +63,7 @@
     gap: 5px;
     margin-left: 40px;
     text-align: center;
+    margin-top: 40px;
 }
 
 .grid-1 h1{
@@ -105,7 +102,7 @@
     gap: 5px;
     margin-left: 20px;
     text-align: center;
-    margin-left: 70px;
+    margin-top: 40px;
 }
 
 .grid-2 h1{
@@ -136,7 +133,8 @@
     gap: 5px;
     margin-left: 20px;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 20px;
+    margin-top: 40px;
 }
 
 .grid-3 h1{
@@ -166,8 +164,9 @@
     height: 114px;
     gap: 5px;
     margin-left: 20px;
+    margin-top: 40px;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 20px;
 }
 
 .grid-4 h1{
@@ -208,16 +207,15 @@
 }
 
 .animated h1 {
-    /* Existing styles */
-    animation: none; /* Reset default animation */
-    opacity: 0; /* Initially hidden */
-    transform: translateY(100%); /* Start from bottom */
+    animation: none;
+    opacity: 0;
+    transform: translateY(100%);
   }
   
   .animated:hover .animated h1 {
     animation: textRise 1s ease-in-out forwards;
-    opacity: 1; /* Become visible on hover */
-    transform: translateY(0); /* Move to top position */
+    opacity: 1;
+    transform: translateY(0);
   }
   
   @keyframes textRise {

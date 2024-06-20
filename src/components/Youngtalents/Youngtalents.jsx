@@ -3,7 +3,7 @@ import './Youngtalents.css';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
-// Importing images
+
 import img1 from '../../images/image1.svg';
 import img2 from '../../images/image2.svg';
 import img3 from '../../images/image3.svg';
